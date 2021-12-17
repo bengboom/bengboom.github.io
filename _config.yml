@@ -28,7 +28,7 @@ twitter_username: It's a secret
 github_username:  bengboom
 
 # Build settings
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
